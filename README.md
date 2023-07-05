@@ -32,6 +32,7 @@ Semelhante a npm start / yarn start, mas também tenta abrir o seu aplicativo em
 
 <br />
 
+### 🛠 Tecnologias e Bibliotecas
 
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.dev/)
