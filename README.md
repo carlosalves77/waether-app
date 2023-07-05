@@ -31,3 +31,16 @@ Semelhante a npm start / yarn start, mas também tenta abrir o seu aplicativo no
 Semelhante a npm start / yarn start, mas também tenta abrir o seu aplicativo em um dispositivo Android conectado ou emulador. Requer a instalação das ferramentas de compilação do Android (consulte [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) para obter uma configuração detalhada).
 
 <br />
+
+
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
+- [nativeWind](https://www.nativewind.dev/)
+- [lodash](https://www.npmjs.com/package/lodash)
+- [React-Native-Progress](https://www.npmjs.com/package/react-native-progress): Um spinner de progresso.
+- [React-Native-heroicons](https://www.npmjs.com/package/react-native-heroicons): Um pack de ícones para React-Native
+- [React Navigation](https://reactnavigation.org/): Roteamento e navegação.
+- [Axios](https://github.com/axios/axios): Cliente HTTP baseado em Promises.
+- [Async Storage](https://reactnative.dev/docs/asyncstorage): O AsyncStorage é um sistema de armazenamento de chave-valor assíncrono, persistente e não criptografado, que é global para o aplicativo
+
+
