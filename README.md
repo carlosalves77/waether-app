@@ -6,7 +6,7 @@
 
 Instale as dependências de desenvolvimento.
 
-### `npm install` or `yarn install`
+### `npm install` ou `yarn install`
 
 ## Então
 
@@ -16,17 +16,17 @@ Acesse https://www.weatherapi.com . Crie uma conta e obtenha a chave da API, em 
 
 Rode o app.
 
-### `npm start` or `yarn start`
+### `npm start` ou `yarn start`
 
 Executa o seu aplicativo no modo de desenvolvimento.
 
 Abra-o no [Expo app](https://expo.io) em seu telefone para visualizá-lo. Ele será recarregado se você salvar edições nos arquivos, e você verá erros de construção e logs no terminal.
 
-#### `npm run ios` or `yarn run ios`
+#### `npm run ios` ou `yarn run ios`
 
 Semelhante a npm start / yarn start, mas também tenta abrir o seu aplicativo no iOS Simulator se você estiver usando um Mac e tiver o simulador instalado.
 
-#### `npm run android` or `yarn run android`
+#### `npm run android` ou `yarn run android`
 
 Semelhante a npm start / yarn start, mas também tenta abrir o seu aplicativo em um dispositivo Android conectado ou emulador. Requer a instalação das ferramentas de compilação do Android (consulte [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) para obter uma configuração detalhada).
 
